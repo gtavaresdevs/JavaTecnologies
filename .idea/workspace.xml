@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c77809b-1b90-418e-b8b3-825f1bba1bea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-    </list>
+    <list default="true" id="4c77809b-1b90-418e-b8b3-825f1bba1bea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +90,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752004573328</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Making readme fancier">
+      <option name="closed" value="true" />
+      <created>1752004684116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752004684116</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix to readme file">
+      <option name="closed" value="true" />
+      <created>1752004780855</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752004780855</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +181,8 @@
     <MESSAGE value="Next Commit" />
     <MESSAGE value="Adding readme test" />
     <MESSAGE value="Adding gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding gitignore" />
+    <MESSAGE value="Making readme fancier" />
+    <MESSAGE value="fix to readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix to readme file" />
   </component>
 </project>
