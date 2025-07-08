@@ -80,13 +80,6 @@ Most challenges are console-based and can be run directly from the IDE.
 Java Backend Developer in training  
 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/gtavaresdevs)
 
----
-
-## ✅ Next Steps
-
-- Add JUnit tests to select exercises
-- Document solutions with JavaDoc
-- Convert some projects into small APIs using Spring Boot (WIP)
 
 ---
 
