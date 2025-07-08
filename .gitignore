@@ -1,0 +1,15 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Build output
+out/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs or temp
+*.log
+*.tmp
